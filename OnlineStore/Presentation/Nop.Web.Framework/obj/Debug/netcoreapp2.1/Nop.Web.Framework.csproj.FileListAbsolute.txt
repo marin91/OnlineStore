@@ -1,0 +1,16 @@
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.deps.json
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.dll
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.pdb
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Core.dll
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Data.dll
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Services.dll
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Data.pdb
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Services.pdb
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.csprojAssemblyReference.cache
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.AssemblyInfoInputs.cache
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.AssemblyInfo.cs
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.csproj.CopyComplete
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.dll
+C:\Projects\Personal\OnlineStore\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.pdb
