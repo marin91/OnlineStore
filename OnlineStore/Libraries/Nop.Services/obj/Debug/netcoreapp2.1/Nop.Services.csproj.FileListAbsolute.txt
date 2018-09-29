@@ -12,3 +12,17 @@ C:\Projects\Personal\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.csproj.CopyComplete
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.dll
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\bin\Debug\netcoreapp2.1\Nop.Services.deps.json
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\bin\Debug\netcoreapp2.1\Nop.Services.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\bin\Debug\netcoreapp2.1\Nop.Services.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\bin\Debug\netcoreapp2.1\Nop.Core.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\bin\Debug\netcoreapp2.1\Nop.Data.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\bin\Debug\netcoreapp2.1\Nop.Data.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Services\obj\Debug\netcoreapp2.1\Nop.Services.pdb

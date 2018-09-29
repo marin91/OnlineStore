@@ -13798,11 +13798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Personal\\OnlineStore\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
+      "projectUniqueName": "D:\\Documents\\OnlineStore\\OnlineStore\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
       "projectName": "Nop.Plugin.Payments.PayPalStandard",
-      "projectPath": "C:\\Projects\\Personal\\OnlineStore\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
+      "projectPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Personal\\OnlineStore\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\obj\\",
+      "outputPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13821,8 +13821,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projects\\Personal\\OnlineStore\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "C:\\Projects\\Personal\\OnlineStore\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\Documents\\OnlineStore\\OnlineStore\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

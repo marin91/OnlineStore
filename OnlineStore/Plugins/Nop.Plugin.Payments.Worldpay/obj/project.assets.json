@@ -13820,11 +13820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Personal\\OnlineStore\\Plugins\\Nop.Plugin.Payments.Worldpay\\Nop.Plugin.Payments.Worldpay.csproj",
+      "projectUniqueName": "D:\\Documents\\OnlineStore\\OnlineStore\\Plugins\\Nop.Plugin.Payments.Worldpay\\Nop.Plugin.Payments.Worldpay.csproj",
       "projectName": "Nop.Plugin.Payments.Worldpay",
-      "projectPath": "C:\\Projects\\Personal\\OnlineStore\\Plugins\\Nop.Plugin.Payments.Worldpay\\Nop.Plugin.Payments.Worldpay.csproj",
+      "projectPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Plugins\\Nop.Plugin.Payments.Worldpay\\Nop.Plugin.Payments.Worldpay.csproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Personal\\OnlineStore\\Plugins\\Nop.Plugin.Payments.Worldpay\\obj\\",
+      "outputPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Plugins\\Nop.Plugin.Payments.Worldpay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13843,8 +13843,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projects\\Personal\\OnlineStore\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-              "projectPath": "C:\\Projects\\Personal\\OnlineStore\\Presentation\\Nop.Web\\Nop.Web.csproj"
+            "D:\\Documents\\OnlineStore\\OnlineStore\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+              "projectPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Presentation\\Nop.Web\\Nop.Web.csproj"
             }
           }
         }

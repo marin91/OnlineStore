@@ -8,3 +8,14 @@ C:\Projects\Personal\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.AssemblyInfo.cs
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.dll
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.deps.json
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.runtimeconfig.json
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.runtimeconfig.dev.json
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Core\obj\Debug\netcoreapp2.1\Nop.Core.pdb

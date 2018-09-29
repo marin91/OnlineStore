@@ -12489,11 +12489,11 @@
   "project": {
     "version": "4.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Personal\\OnlineStore\\Libraries\\Nop.Core\\Nop.Core.csproj",
+      "projectUniqueName": "D:\\Documents\\OnlineStore\\OnlineStore\\Libraries\\Nop.Core\\Nop.Core.csproj",
       "projectName": "Nop.Core",
-      "projectPath": "C:\\Projects\\Personal\\OnlineStore\\Libraries\\Nop.Core\\Nop.Core.csproj",
+      "projectPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Libraries\\Nop.Core\\Nop.Core.csproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Personal\\OnlineStore\\Libraries\\Nop.Core\\obj\\",
+      "outputPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Libraries\\Nop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

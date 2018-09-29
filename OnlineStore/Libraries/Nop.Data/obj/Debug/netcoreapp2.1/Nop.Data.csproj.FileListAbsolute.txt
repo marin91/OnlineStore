@@ -10,3 +10,15 @@ C:\Projects\Personal\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csproj.CopyComplete
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.dll
 C:\Projects\Personal\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.deps.json
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Core.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.dll
+D:\Documents\OnlineStore\OnlineStore\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.pdb

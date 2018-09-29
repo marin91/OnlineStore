@@ -14686,11 +14686,11 @@
   "project": {
     "version": "4.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Personal\\OnlineStore\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
+      "projectUniqueName": "D:\\Documents\\OnlineStore\\OnlineStore\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
       "projectName": "Nop.Services.Tests",
-      "projectPath": "C:\\Projects\\Personal\\OnlineStore\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
+      "projectPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Personal\\OnlineStore\\Tests\\Nop.Services.Tests\\obj\\",
+      "outputPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Tests\\Nop.Services.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14709,11 +14709,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projects\\Personal\\OnlineStore\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "C:\\Projects\\Personal\\OnlineStore\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "D:\\Documents\\OnlineStore\\OnlineStore\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Libraries\\Nop.Services\\Nop.Services.csproj"
             },
-            "C:\\Projects\\Personal\\OnlineStore\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
-              "projectPath": "C:\\Projects\\Personal\\OnlineStore\\Tests\\Nop.Tests\\Nop.Tests.csproj"
+            "D:\\Documents\\OnlineStore\\OnlineStore\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
+              "projectPath": "D:\\Documents\\OnlineStore\\OnlineStore\\Tests\\Nop.Tests\\Nop.Tests.csproj"
             }
           }
         }
