@@ -36,7 +36,14 @@ input[type="file"]:focus, input[type="checkbox"]:focus, input[type="radio"]:focu
 
 /* HEADER SECTION STYLE */
 .header-logo{text-align:center;}
-.header-upper{background:#071018;box-shadow:0px 0px 3px #999;-webkit-box-shadow: 0px 0px 3px #999;-moz-box-shadow: 0px 0px 3px #999;height:45px;border-bottom:1px solid #33393e;}
+.header-upper {
+    background: #87bdd8;
+    box-shadow: 0px 0px 3px #999;
+    -webkit-box-shadow: 0px 0px 3px #999;
+    -moz-box-shadow: 0px 0px 3px #999;
+    height: 45px;
+    border-bottom: 1px solid #33393e;
+}
 .currency-selector,.language-selector{float:left;margin:10px 8px 0px 0px;}
 .header-selectors-wrapper select{background:#071018 url("/Themes/WristwearTheme/Content/images/down-caret.png") no-repeat scroll right center !important;color:#fff;width:86px;margin-top:0px !important;padding:0px 5px !important;height:26px;font-size:12px;border:none !important;-moz-appearance:none;-webkit-appearance:none;}
 .header-links-wrapper .admin-header-links{display:none !important;}
@@ -109,7 +116,11 @@ input[type="file"]:focus, input[type="checkbox"]:focus, input[type="radio"]:focu
 .search-box .ui-autocomplete-loading{background:white url('../images/ajax_loader_small.gif') right center no-repeat;}
 .ui-autocomplete{z-index:10 !important;}
 .ui-autocomplete .ui-menu-item a{text-align:left !important;}
-.header-lower{padding:10px 0px;position:relative;background:#0e1c29;}
+.header-lower {
+    padding: 10px 0px;
+    position: relative;
+    background: #f7cac9;
+}
 .header-menu .navbar-default{background-color:transparent;border-color:transparent;margin-bottom:0px;}
 .header-menu{background:#0e1c29;margin-top:15px;}
 .header-menu .navbar.navbar-inverse .nav.navbar-nav > li.dropdown .dropdown-menu.sub-menusublist.first-level li .dropdown-menu.sub-menusublist.first-level,.header-menu .navbar.navbar-inverse .nav.navbar-nav > li.dropdown .dropdown-menu.sub-menusublist.first-level li .dropdown-menu.sub-menusublist.first-level li .dropdown-menu.sub-menusublist.first-level{display:none;}
@@ -206,11 +217,17 @@ input[type="file"]:focus, input[type="checkbox"]:focus, input[type="radio"]:focu
 #newsletter-subscribe-block #newsletter-email{float: left;width:100%;;height:40px;background:#fff;border:1px solid #fff;}
 #newsletter-subscribe-block #newsletter-subscribe-button{background: #fff url("../images/news-letter-email.png") no-repeat scroll 18px center;color: #000;font-weight: normal;padding-left: 45px;font-size: 16px;height: 40px;text-transform: uppercase;}
 #newsletter-subscribe-block #newsletter-subscribe-button:hover{opacity:0.8;transition:all 500ms ease;}
-.footer-upper{padding:30px 0px;background:#f10044;}
+.footer-upper {
+    padding: 30px 0px;
+    background: #87bdd8;
+}
 .newsletter-wrapper strong {border-right: 4px solid #fff;float: right;font-size: 18px;font-weight: normal;height: 40px;line-height: 40px;padding-right: 30px;text-transform: uppercase;color:#fff;}
 .newsletter-result-block{color: #fff;clear:both;text-align:center;float:left;width:100%;margin-top:10px;}
 .newsletter-validation{text-align:center;}
-.footer-middle{padding:35px 0px;background:#0e1c29;}
+.footer-middle {
+    padding: 35px 0px;
+    background: #f7cac9;
+}
 .footer-middle .title{margin-bottom:25px;padding-bottom:25px;border-bottom:2px solid #071018;}
 .footer-middle .title strong{font-size:18px;color:#fff;text-transform:uppercase;line-height:15px;}
 .footer .footer-middle ul li a{color:#fff;text-transform:capitalize;margin-bottom:20px;display:inline-block;font-weight: lighter;}
@@ -221,7 +238,11 @@ input[type="file"]:focus, input[type="checkbox"]:focus, input[type="radio"]:focu
 .footer-middle .contact-wrapper .phone-number i{margin-right:16px;}
 .footer-middle .contact-wrapper .fax i{margin-right:14px;}
 .footer-middle .contact-wrapper p{float:left;width:85%;color:#777;letter-spacing:0.5px;margin-bottom:10px;text-transform:capitalize;}
-.footer-lower{padding:20px 0px;background:#071018;color:#fff;}
+.footer-lower {
+    padding: 20px 0px;
+    background: #87bdd8;
+    color: #fff;
+}
 .footer-lower a{color:#f10044;}
 .footer-lower a:hover{color:#fff;}
 .footer-lower .poweredby,.footer-designedby{color:#fff;}
