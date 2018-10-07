@@ -40,12 +40,12 @@
     .product-details-page .variant-overview{width:50%;}
     .product-details-page .variant-overview .add-to-cart .product-add-button{margin-top:15px;}
     .product-details-page .variant-overview .add-to-cart{margin-bottom:15px;}
-    #opc-confirm_order #confirm-order-buttons-container .confirm-order-next-step-button{background:#f10044 url("../images/checkout-order-confrim.png") no-repeat scroll 60px center;width:280px;}
+    #opc-confirm_order #confirm-order-buttons-container .confirm-order-next-step-button{background:#A54C4C url("../images/checkout-order-confrim.png") no-repeat scroll 60px center;width:280px;}
     #opc-confirm_order #confirm-order-buttons-container .confirm-order-next-step-button:hover{background:#37465d url("../images/checkout-order-confrim.png") no-repeat scroll 60px center;}
     .bottom-box-shadow {height: 30px;}
     .payment-method ul .payment-method1,.payment-method ul .payment-method2,.payment-method ul .payment-method3,.payment-method ul .payment-method4 {width: 53px;}
      .footer-middle .title, .footer-middle .contact-wrapper div {float: left;margin-bottom: 15px;width: 100%;padding-bottom:15px;}
-    .footer-middle .title i,.footer-middle .contact-wrapper div i {color: #f10044;float: left;font-size: 15px;margin-right: 8px;}
+    .footer-middle .title i,.footer-middle .contact-wrapper div i {color: #A54C4C;float: left;font-size: 15px;margin-right: 8px;}
     .footer-middle .title strong,.footer-middle .contact-wrapper div strong {float: left;font-size:18px;line-height: 16px;width: 85%;text-transform:none;}
     .footer .footer-middle .social-wrapper li a{margin-right:5px;margin-bottom: 5px;}
 }
@@ -141,7 +141,7 @@
     .footer .footer-middle .social-wrapper li a{margin-right:5px;margin-bottom:5px;}
     .payment-method ul .payment-method1, .payment-method ul .payment-method2, .payment-method ul .payment-method3, .payment-method ul .payment-method4{margin-bottom: 10px;}
      .footer-middle .title, .footer-middle .contact-wrapper div {float: left;margin-bottom: 15px;width: 100%;padding-bottom:15px;}
-    .footer-middle .title i,.footer-middle .contact-wrapper div i {color: #f10044;float: left;font-size: 15px;margin-right: 8px;}
+    .footer-middle .title i,.footer-middle .contact-wrapper div i {color: #A54C4C;float: left;font-size: 15px;margin-right: 8px;}
     .footer-middle .title strong,.footer-middle .contact-wrapper div strong {float: left;font-size: 14px;line-height: 16px;width: 85%;text-transform:none;}
     .header-lower .search-box .search-nav{width:100%;}
 }
@@ -150,14 +150,14 @@
         background: #0e1c29;
         color: #fff;
         padding: 20px 22px;
-        border-top: 2px solid #f10044;
-        border-bottom: 2px solid #f10044;
-        color: #f10044;
+        border-top: 2px solid #A54C4C;
+        border-bottom: 2px solid #A54C4C;
+        color: #A54C4C;
     }
     .header-menu .navbar.navbar-inverse .nav.navbar-nav > li > a:hover {
-        border-top: 2px solid #f10044;
-        border-bottom: 2px solid #f10044;
-        color: #f10044;
+        border-top: 2px solid #A54C4C;
+        border-bottom: 2px solid #A54C4C;
+        color: #A54C4C;
     }
     .header-menu .navbar.navbar-inverse .nav.navbar-nav > li.dropdown .dropdown-menu li.active a {
         color: #333;
@@ -326,8 +326,8 @@
     .side-content{clear:both;}
     .listbox,.lt-ie9 .listbox,.footer-middle .nav.nav-list,.lt-ie9 .nav.nav-list{display:none;}
     .block.block-newsletter .listbox{display:block;}
-    .sidebar .title{background:url("../images/toggle-down-arrow.png") no-repeat #f10044  right center;font-size:16px;padding:15px;cursor:pointer;border-bottom:1px solid #ddd;box-shadow:0 -3px 5px #aaaaaa;-moz-box-shadow:0 -3px 5px #aaa;-web-box-shadow:0 -3px 5px #aaaaaa;}
-    .sidebar .title.arrow-up-down{background:url("../images/toggle-up-arrow.png") no-repeat #f10044 right center;}
+    .sidebar .title{background:url("../images/toggle-down-arrow.png") no-repeat #A54C4C  right center;font-size:16px;padding:15px;cursor:pointer;border-bottom:1px solid #ddd;box-shadow:0 -3px 5px #aaaaaa;-moz-box-shadow:0 -3px 5px #aaa;-web-box-shadow:0 -3px 5px #aaaaaa;}
+    .sidebar .title.arrow-up-down{background:url("../images/toggle-up-arrow.png") no-repeat #A54C4C right center;}
     .box-shadow-wrapper{width:49%;margin-right:2%;}
     .lt-ie9 .box-shadow-wrapper{width:48%;margin-right:2%;}
     .box-shadow-wrapper:nth-child(2n){margin-right:0px;}
@@ -404,7 +404,7 @@
     .wishlist-page .wishlist-small-wrapper > td, .shopping-cart-page .shopping-cart-small-wrapper > td, .checkout-page .shopping-cart-small-wrapper > td {border: medium none;padding: 0;width: 100%;}
     .wishlist-page .panel > .table-bordered > tbody > tr:last-child > td, .order-summary-content .panel > .table-bordered > tbody > tr:last-child > td {border-bottom: none;}
     .wishlist-content .panel.panel-default table tbody tr, .order-summary-content .panel.panel-default.cart-item-table table tbody tr {border-top:none;background:#f5f5f5;}
-    .order-summary-content .product-wrapper .product a, .wishlist-content .product-wrapper .product a {color: #f10044;font-weight: 700;display:block;}
+    .order-summary-content .product-wrapper .product a, .wishlist-content .product-wrapper .product a {color: #A54C4C;font-weight: 700;display:block;}
     .order-summary-content .product-wrapper .product a:hover, .wishlist-content .product-wrapper .product a:hover{color:#333;}
     .shopping-cart-page .order-summary-content .qty-input.form-control,.wishlist-page .wishlist-content .qty-input.form-control{ padding:0px; text-align:center;vertical-align:middle;}
     .remove-addtocart-checkbox .remove-from-cart{color:#666;}
@@ -422,7 +422,7 @@
     .wishlist-page .wishlist-add-to-cart{clear:both;display:inline-block;}
     .wishlist-page .wishlist-add-to-cart{text-align:center;}
     .wishlist-page .share-info{width:100%;text-align:center;}
-    #opc-confirm_order #confirm-order-buttons-container .confirm-order-next-step-button{padding:10px 15px 10px 40px;background:#f10044 url("../images/checkout-order-confrim.png") no-repeat scroll 20px center;float:right;width:150px;font-size:14px;}
+    #opc-confirm_order #confirm-order-buttons-container .confirm-order-next-step-button{padding:10px 15px 10px 40px;background:#A54C4C url("../images/checkout-order-confrim.png") no-repeat scroll 20px center;float:right;width:150px;font-size:14px;}
     #opc-confirm_order #confirm-order-buttons-container .confirm-order-next-step-button:hover{background:#37465d url("../images/checkout-order-confrim.png") no-repeat scroll 20px center;}
     .entity-body.category-body.product-link li{width:100%;}
     .sitemap-page .entity .category-body ul{padding:0; margin:0px 10px;}
