@@ -1,0 +1,16 @@
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\plugin.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_ViewImports.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.deps.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.dll
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.pdb

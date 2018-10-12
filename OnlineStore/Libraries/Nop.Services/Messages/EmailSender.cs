@@ -7,6 +7,7 @@ using System.Net.Mail;
 using Nop.Core.Domain.Messages;
 using Nop.Core.Infrastructure;
 using Nop.Services.Media;
+using SparkPostCore;
 
 namespace Nop.Services.Messages
 {
@@ -60,52 +61,13 @@ namespace Nop.Services.Messages
             string attachmentFilePath = null, string attachmentFileName = null,
             int attachedDownloadId = 0, IDictionary<string, string> headers = null)
         {
-            var message = new MailMessage
-            {
-                //from, to, reply to
-                From = new MailAddress(fromAddress, fromName)
-            };
-            message.To.Add(new MailAddress(toAddress, toName));
-            if (!string.IsNullOrEmpty(replyTo))
-            {
-                message.ReplyToList.Add(new MailAddress(replyTo, replyToName));
-            }
 
-            //BCC
-            if (bcc != null)
-            {
-                foreach (var address in bcc.Where(bccValue => !string.IsNullOrWhiteSpace(bccValue)))
-                {
-                    message.Bcc.Add(address.Trim());
-                }
-            }
-
-            //CC
-            if (cc != null)
-            {
-                foreach (var address in cc.Where(ccValue => !string.IsNullOrWhiteSpace(ccValue)))
-                {
-                    message.CC.Add(address.Trim());
-                }
-            }
-
-            //content
-            message.Subject = subject;
-            message.Body = body;
-            message.IsBodyHtml = true;
-
-            //headers
-            if (headers != null)
-                foreach (var header in headers)
-                {
-                    message.Headers.Add(header.Key, header.Value);
-                }
 
             //create the file attachment for this e-mail message
             if (!string.IsNullOrEmpty(attachmentFilePath) &&
                 _fileProvider.FileExists(attachmentFilePath))
             {
-                var attachment = new Attachment(attachmentFilePath);
+                var attachment = new System.Net.Mail.Attachment(attachmentFilePath);
                 attachment.ContentDisposition.CreationDate = _fileProvider.GetCreationTime(attachmentFilePath);
                 attachment.ContentDisposition.ModificationDate = _fileProvider.GetLastWriteTime(attachmentFilePath);
                 attachment.ContentDisposition.ReadDate = _fileProvider.GetLastAccessTime(attachmentFilePath);
@@ -114,7 +76,7 @@ namespace Nop.Services.Messages
                     attachment.Name = attachmentFileName;
                 }
 
-                message.Attachments.Add(attachment);
+                //message.Attachments.Add(attachment);
             }
             //another attachment?
             if (attachedDownloadId > 0)
@@ -129,30 +91,67 @@ namespace Nop.Services.Messages
                         fileName += download.Extension;
 
                         var ms = new MemoryStream(download.DownloadBinary);
-                        var attachment = new Attachment(ms, fileName);
-                        //string contentType = !string.IsNullOrWhiteSpace(download.ContentType) ? download.ContentType : "application/octet-stream";
-                        //var attachment = new Attachment(ms, fileName, contentType);
-                        attachment.ContentDisposition.CreationDate = DateTime.UtcNow;
-                        attachment.ContentDisposition.ModificationDate = DateTime.UtcNow;
-                        attachment.ContentDisposition.ReadDate = DateTime.UtcNow;
-                        message.Attachments.Add(attachment);
+                        var attachment = new System.Net.Mail.Attachment(ms, fileName);
+
+                        // handle attachment here
+
                     }
                 }
             }
 
-            //send email
-            using (var smtpClient = new SmtpClient())
+          
+            var transmission = new Transmission();
+            transmission.Content.From.Email = fromAddress;
+            transmission.Content.Subject = subject;
+            transmission.Content.Text = body;
+
+            // add recipients who will receive your email
+            var recipient = new Recipient
             {
-                smtpClient.UseDefaultCredentials = emailAccount.UseDefaultCredentials;
-                smtpClient.Host = emailAccount.Host;
-                smtpClient.Port = emailAccount.Port;
-                smtpClient.EnableSsl = emailAccount.EnableSsl;
-                smtpClient.Credentials = emailAccount.UseDefaultCredentials ?
-                    CredentialCache.DefaultNetworkCredentials :
-                    new NetworkCredential(emailAccount.Username, emailAccount.Password);
-                smtpClient.Send(message);
+                Address = new Address { Email = toAddress }
+            };
+
+            //BCC
+            if (bcc != null)
+            {
+                foreach (var address in bcc.Where(bccValue => !string.IsNullOrWhiteSpace(bccValue)))
+                {                   
+                    transmission.Recipients.Add(new Recipient
+                    {
+                        Address = new Address { Email = address.Trim() }
+                    });
+
+                    transmission.Content.Headers.Add("CC", address.Trim());
+                }
             }
+
+            //CC
+            if (cc != null)
+            {
+                foreach (var address in cc.Where(ccValue => !string.IsNullOrWhiteSpace(ccValue)))
+                {
+                    transmission.Recipients.Add(new Recipient
+                    {
+                        Address = new Address { Email = address.Trim(), HeaderTo = "header_to" }
+                    });
+
+                }
+            }
+
+
+            transmission.Recipients.Add(recipient);
+
+            // create a new API client using your API key
+            var client = new Client("64d143984ab2071c10d2e1f85fb668a9bdc97dd2");
+
+            // if you do not understand async/await, use the sync sending mode:
+
+            client.CustomSettings.SendingMode = SendingModes.Sync;
+
+            var response = client.Transmissions.Send(transmission);
         }
+
+       
 
         #endregion
     }

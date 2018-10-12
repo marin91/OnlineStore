@@ -1,0 +1,15 @@
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.deps.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.pdb

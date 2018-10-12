@@ -1,0 +1,14 @@
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\plugin.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\_ViewImports.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.deps.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Release\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.pdb

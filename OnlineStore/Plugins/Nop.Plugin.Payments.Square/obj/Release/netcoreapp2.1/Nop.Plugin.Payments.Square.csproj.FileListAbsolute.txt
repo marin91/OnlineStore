@@ -1,0 +1,16 @@
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Square\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Square\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Square.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Square\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Square\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Square\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Square.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Square\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Square.dll
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Square\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Square.pdb

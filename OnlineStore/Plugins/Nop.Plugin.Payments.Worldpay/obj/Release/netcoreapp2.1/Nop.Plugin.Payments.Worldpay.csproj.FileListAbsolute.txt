@@ -1,0 +1,17 @@
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\plugin.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Configure.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\PaymentInfo.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\_ViewImports.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Customer\_CreateOrUpdate.Worldpay.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\cards.jpg
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\logo.jpg
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.deps.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.dll
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.pdb
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.dll
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.pdb

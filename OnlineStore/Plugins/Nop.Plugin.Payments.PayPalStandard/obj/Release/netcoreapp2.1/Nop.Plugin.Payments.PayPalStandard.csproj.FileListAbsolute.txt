@@ -1,0 +1,15 @@
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\plugin.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\_ViewImports.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.deps.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.dll
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.pdb

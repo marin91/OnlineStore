@@ -2832,6 +2832,64 @@
           }
         }
       },
+      "Mime/2.3.5": {
+        "type": "package",
+        "dependencies": {
+          "MimeTypesMap": "1.0.2",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.3/Mime.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Mime.dll": {}
+        },
+        "build": {
+          "build/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libmagic-1.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/magic.mgc": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/libmagic-1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/magic.mgc": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/libgnurx-0.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/libmagic-1.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/magic.mgc": {
+            "assetType": "native",
+            "rid": "win-x64"
+          }
+        }
+      },
+      "MimeTypesMap/1.0.2": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.3/MimeTypesMap.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/MimeTypesMap.dll": {}
+        }
+      },
       "MiniProfiler.AspNetCore/4.0.133": {
         "type": "package",
         "dependencies": {
@@ -3238,6 +3296,19 @@
         },
         "runtime": {
           "lib/netstandard2.0/SixLabors.ImageSharp.dll": {}
+        }
+      },
+      "SparkPostCore/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Mime": "2.3.5",
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/SparkPostCore.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/SparkPostCore.dll": {}
         }
       },
       "StackExchange.Redis.StrongName/1.2.4": {
@@ -5203,6 +5274,7 @@
           "Nop.Core": "4.1.0",
           "Nop.Data": "4.1.0",
           "SixLabors.ImageSharp": "1.0.0-beta0004",
+          "SparkPostCore": "1.0.0",
           "System.Linq.Dynamic.Core": "1.0.8.11",
           "System.ServiceModel.Http": "4.5.3",
           "WindowsAzure.Storage": "9.3.0",
@@ -7911,6 +7983,38 @@
         "version.txt"
       ]
     },
+    "Mime/2.3.5": {
+      "sha512": "t3f8M+S3k2VAmiOvTSMm2bqnyWj0LpL55iFdRchefmrpGnkL4x8BKw0vBUeXq7enXufGzZBGi5umHkFXmUHHeA==",
+      "type": "package",
+      "path": "mime/2.3.5",
+      "files": [
+        "build/Mime.targets",
+        "build/Platform.props",
+        "lib/net45/Mime.dll",
+        "lib/netstandard1.3/Mime.dll",
+        "mime.2.3.5.nupkg.sha512",
+        "mime.nuspec",
+        "runtimes/linux-x64/native/libmagic-1.so",
+        "runtimes/linux-x64/native/magic.mgc",
+        "runtimes/osx-x64/native/libmagic-1.dylib",
+        "runtimes/osx-x64/native/magic.mgc",
+        "runtimes/win-x64/native/libgnurx-0.dll",
+        "runtimes/win-x64/native/libmagic-1.dll",
+        "runtimes/win-x64/native/magic.mgc"
+      ]
+    },
+    "MimeTypesMap/1.0.2": {
+      "sha512": "n1tW3mDCfG+gUhHXo27ODwERz6bRRRe0wpSTXYi4fV40K8MwMXtz5dSya5pdie/Za0KuGFw560OOcEYwIKjGBQ==",
+      "type": "package",
+      "path": "mimetypesmap/1.0.2",
+      "files": [
+        "lib/net40/MimeTypesMap.dll",
+        "lib/net45/MimeTypesMap.dll",
+        "lib/netstandard1.3/MimeTypesMap.dll",
+        "mimetypesmap.1.0.2.nupkg.sha512",
+        "mimetypesmap.nuspec"
+      ]
+    },
     "MiniProfiler.AspNetCore/4.0.133": {
       "sha512": "eV3WjIdRoGTBXtfYSGb3ZvP2GPb3lG1k4Pv150ZLMw/VWFKZm82LWfdF9JY4lcf/4ZkiEKPp4izxF7extzqnCg==",
       "type": "package",
@@ -8488,6 +8592,16 @@
         "lib/netstandard2.0/SixLabors.ImageSharp.xml",
         "sixlabors.imagesharp.1.0.0-beta0004.nupkg.sha512",
         "sixlabors.imagesharp.nuspec"
+      ]
+    },
+    "SparkPostCore/1.0.0": {
+      "sha512": "1YK40qy292tl+sQ75RTQJuJCUf15Xgame75hFwGd249vT5FklfPPPEZNw9vgIEoT1OdwbQr7yJ7hCJmUa8LVUw==",
+      "type": "package",
+      "path": "sparkpostcore/1.0.0",
+      "files": [
+        "lib/netcoreapp2.0/SparkPostCore.dll",
+        "sparkpostcore.1.0.0.nupkg.sha512",
+        "sparkpostcore.nuspec"
       ]
     },
     "StackExchange.Redis.StrongName/1.2.4": {

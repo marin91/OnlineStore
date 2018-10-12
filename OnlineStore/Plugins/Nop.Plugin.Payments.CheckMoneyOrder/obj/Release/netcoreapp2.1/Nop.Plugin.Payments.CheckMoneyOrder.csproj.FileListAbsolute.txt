@@ -1,0 +1,15 @@
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\plugin.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\_ViewImports.cshtml
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.deps.json
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\Documents\OnlineStore\OnlineStore\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfoInputs.cache
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfo.cs
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CopyComplete
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\Documents\OnlineStore\OnlineStore\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.pdb
