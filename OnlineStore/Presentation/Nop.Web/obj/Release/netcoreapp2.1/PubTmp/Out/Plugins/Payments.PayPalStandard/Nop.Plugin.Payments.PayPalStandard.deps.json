@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "b4400e27bf3c47fe586c59de69b0cbdca9bf8490"
+    "signature": "72ba9f379fb1bf1241098a90342b47f33d57457a"
   },
   "compilationOptions": {},
   "targets": {
@@ -2407,6 +2407,62 @@
           }
         }
       },
+      "Mime/2.3.5": {
+        "dependencies": {
+          "MimeTypesMap": "1.0.2"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Mime.dll": {
+            "assemblyVersion": "2.3.5.0",
+            "fileVersion": "2.3.5.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libmagic-1.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/magic.mgc": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libmagic-1.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/magic.mgc": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libgnurx-0.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libmagic-1.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/magic.mgc": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "MimeTypesMap/1.0.2": {
+        "runtime": {
+          "lib/netstandard1.3/MimeTypesMap.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
       "MiniProfiler.AspNetCore/4.0.133": {
         "dependencies": {
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
@@ -2708,6 +2764,18 @@
         },
         "runtime": {
           "lib/netstandard2.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SparkPostCore/1.0.0": {
+        "dependencies": {
+          "Mime": "2.3.5",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/SparkPostCore.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -4042,6 +4110,7 @@
           "Nop.Core": "4.1.0",
           "Nop.Data": "4.1.0",
           "SixLabors.ImageSharp": "1.0.0-beta0004",
+          "SparkPostCore": "1.0.0",
           "System.Linq.Dynamic.Core": "1.0.8.11",
           "System.ServiceModel.Http": "4.5.3",
           "WindowsAzure.Storage": "9.3.0",
@@ -5296,6 +5365,20 @@
       "path": "microsoft.win32.systemevents/4.5.0",
       "hashPath": "microsoft.win32.systemevents.4.5.0.nupkg.sha512"
     },
+    "Mime/2.3.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t3f8M+S3k2VAmiOvTSMm2bqnyWj0LpL55iFdRchefmrpGnkL4x8BKw0vBUeXq7enXufGzZBGi5umHkFXmUHHeA==",
+      "path": "mime/2.3.5",
+      "hashPath": "mime.2.3.5.nupkg.sha512"
+    },
+    "MimeTypesMap/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n1tW3mDCfG+gUhHXo27ODwERz6bRRRe0wpSTXYi4fV40K8MwMXtz5dSya5pdie/Za0KuGFw560OOcEYwIKjGBQ==",
+      "path": "mimetypesmap/1.0.2",
+      "hashPath": "mimetypesmap.1.0.2.nupkg.sha512"
+    },
     "MiniProfiler.AspNetCore/4.0.133": {
       "type": "package",
       "serviceable": true,
@@ -5418,7 +5501,7 @@
     "runtime.native.System.Net.Security/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-M2nN92ePS8BgQ2oi6Jj3PlTUzadYSIWLdZrHY1n1ZcW9o4wAQQ6W+aQ2lfq1ysZQfVCgDwY58alUdowrzezztg==",
+      "sha512": "sha512-07/0UFGHPgrIB5OW/g/kpZTz+hSQ2qtEGs7k7zq7TKe6HVHI1e+8EjyWg+CZF9o90fKd6E6hemSBCHKdDRN3Fg==",
       "path": "runtime.native.system.net.security/4.3.0",
       "hashPath": "runtime.native.system.net.security.4.3.0.nupkg.sha512"
     },
@@ -5526,6 +5609,13 @@
       "sha512": "sha512-ypYAt2A8FLJ85y42VOVzrCTaULbTwKMM87kYspWOpeBQG/nGBfKWGzFikNJUqOFET7lqQ1nCMp30Nin/W3DPhQ==",
       "path": "sixlabors.imagesharp/1.0.0-beta0004",
       "hashPath": "sixlabors.imagesharp.1.0.0-beta0004.nupkg.sha512"
+    },
+    "SparkPostCore/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1YK40qy292tl+sQ75RTQJuJCUf15Xgame75hFwGd249vT5FklfPPPEZNw9vgIEoT1OdwbQr7yJ7hCJmUa8LVUw==",
+      "path": "sparkpostcore/1.0.0",
+      "hashPath": "sparkpostcore.1.0.0.nupkg.sha512"
     },
     "StackExchange.Redis.StrongName/1.2.4": {
       "type": "package",
@@ -5663,7 +5753,7 @@
     "System.Diagnostics.StackTrace/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BiHg0vgtd35/DM9jvtaC1eKRpWZxr0gcQd643ABG7GnvSlf5pOkY2uyd42mMOJoOmKvnpNj0F4tuoS1pacTwYw==",
+      "sha512": "sha512-X5GZJb/BROT+X38PQaji32hFVB6pXMbNzSw0vvRrD/fI84aINj3d9SCBdDKWAbv/lmaRk+8f/nAmFnaKUucySw==",
       "path": "system.diagnostics.stacktrace/4.3.0",
       "hashPath": "system.diagnostics.stacktrace.4.3.0.nupkg.sha512"
     },
@@ -5803,7 +5893,7 @@
     "System.Linq.Queryable/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-In1Bmmvl/j52yPu3xgakQSI0YIckPUr870w4K5+Lak3JCCa8hl+my65lABOuKfYs4ugmZy25ScFerC4nz8+b6g==",
+      "sha512": "sha512-ju/JAunWte3CQVuax1hxfpb5QDhTX0O+FAdUZhYr9mSk94Me/uO+Z79zSGpV3YrdKmR420A0OTUdF0/FwVgK4g==",
       "path": "system.linq.queryable/4.3.0",
       "hashPath": "system.linq.queryable.4.3.0.nupkg.sha512"
     },
@@ -5824,7 +5914,7 @@
     "System.Net.NameResolution/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
+      "sha512": "sha512-Ku7k7RngxNZ+IDAtiQRjBI3ZBx4pxVE1jS3mGxP+1rZ3+nUp44KPFqsLMVH4GMKBVfKxHqRcfoUDRPkSNdXedg==",
       "path": "system.net.nameresolution/4.3.0",
       "hashPath": "system.net.nameresolution.4.3.0.nupkg.sha512"
     },
@@ -5838,14 +5928,14 @@
     "System.Net.Requests/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-OZNUuAs0kDXUzm7U5NZ1ojVta5YFZmgT2yxBqsQ7Eseq5Ahz88LInGRuNLJ/NP2F8W1q7tse1pKDthj3reF5QA==",
+      "sha512": "sha512-rleHkWlIxAZ49/KA24s25/+lSsPrVqTd33hZz4iRgj2+NCYttd9HZoZYJ6YM8KrhPon3aIOq2nZtIVvPFzFayQ==",
       "path": "system.net.requests/4.3.0",
       "hashPath": "system.net.requests.4.3.0.nupkg.sha512"
     },
     "System.Net.Security/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IgJKNfALqw7JRWp5LMQ5SWHNKvXVz094U6wNE3c1i8bOkMQvgBL+MMQuNt3xl9Qg9iWpj3lFxPZEY6XHmROjMQ==",
+      "sha512": "sha512-+DRdAxZneVl9ulrOqTJK3X0YikrhdRIKMrKqZjMgWSHUABAze1d/Be3gC9o/6yfRgsB+Tl+xvBzFAtlvVye0vQ==",
       "path": "system.net.security/4.3.0",
       "hashPath": "system.net.security.4.3.0.nupkg.sha512"
     },
@@ -5859,7 +5949,7 @@
     "System.Net.WebHeaderCollection/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XZrXYG3c7QV/GpWeoaRC02rM6LH2JJetfVYskf35wdC/w2fFDFMphec4gmVH2dkll6abtW14u9Rt96pxd9YH2A==",
+      "sha512": "sha512-Q4RR/YOqiWWb+zmTU7h8K2KbtRUf+x+OewLjf/WnTDaUcrbVRGA89YVW2cl22nSmltNcAgz+lJWrRwD4m+Uolw==",
       "path": "system.net.webheadercollection/4.3.0",
       "hashPath": "system.net.webheadercollection.4.3.0.nupkg.sha512"
     },
@@ -6013,7 +6103,7 @@
     "System.Runtime.Loader/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DHMaRn8D8YCK2GG2pw+UzNxn/OHVfaWx7OTLBD/hPegHZZgcZh3H6seWegrC4BYwsfuGrywIuT+MQs+rPqRLTQ==",
+      "sha512": "sha512-mer69FiDiNdO5bdFr+w0FUoHVTIdLpcuseAlVXpTfhhgxozQbHI8evT3K8G16rjLGbjBH8+v6kzXsdbTh9bYUw==",
       "path": "system.runtime.loader/4.3.0",
       "hashPath": "system.runtime.loader.4.3.0.nupkg.sha512"
     },
@@ -6216,21 +6306,21 @@
     "System.Threading.Tasks.Parallel/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-cbjBNZHf/vQCfcdhzx7knsiygoCKgxL8mZOeocXZn5gWhCdzHIq6bYNKWX0LAJCWYP7bds4yBK8p06YkP0oa0g==",
+      "sha512": "sha512-s99mpolC1bbTrJSPUlb2eeOvikKdIQX5VdfwpuJ4/6t7uhYoOUWxpndS760WUXPEty5DVr+/gi4iGSdT+/9dpA==",
       "path": "system.threading.tasks.parallel/4.3.0",
       "hashPath": "system.threading.tasks.parallel.4.3.0.nupkg.sha512"
     },
     "System.Threading.Thread/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-OHmbT+Zz065NKII/ZHcH9XO1dEuLGI1L2k7uYss+9C1jLxTC9kTZZuzUOyXHayRk+dft9CiDf3I/QZ0t8JKyBQ==",
+      "sha512": "sha512-zYKxxl1pbZkkgPhPhSrPMnrmYmBI8ptpyaTA/LspW5XZsYqsGkKd0buOC7FGmtTZvOJ29bRo8kMsClCDOlAzzQ==",
       "path": "system.threading.thread/4.3.0",
       "hashPath": "system.threading.thread.4.3.0.nupkg.sha512"
     },
     "System.Threading.ThreadPool/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
+      "sha512": "sha512-pPoGBKQPubzV8mpc7OWj3EjFJyy/2kkLwyjvgzVESlPbQYqtMFXrvIvnYS+WMemNlYz0JgjAdpKmywFGgD1ccg==",
       "path": "system.threading.threadpool/4.3.0",
       "hashPath": "system.threading.threadpool.4.3.0.nupkg.sha512"
     },

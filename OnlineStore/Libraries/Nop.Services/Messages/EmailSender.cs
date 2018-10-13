@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Mail;
+using Nop.Core.Configuration;
 using Nop.Core.Domain.Messages;
 using Nop.Core.Infrastructure;
 using Nop.Services.Media;
@@ -99,11 +100,12 @@ namespace Nop.Services.Messages
                 }
             }
 
-          
+            var nopConfig = EngineContext.Current.Resolve<NopConfig>();
+
             var transmission = new Transmission();
             transmission.Content.From.Email = fromAddress;
             transmission.Content.Subject = subject;
-            transmission.Content.Text = body;
+            transmission.Content.Html = body;
 
             // add recipients who will receive your email
             var recipient = new Recipient
@@ -142,7 +144,7 @@ namespace Nop.Services.Messages
             transmission.Recipients.Add(recipient);
 
             // create a new API client using your API key
-            var client = new Client("64d143984ab2071c10d2e1f85fb668a9bdc97dd2");
+            var client = new Client(nopConfig.SparkPostKey);
 
             // if you do not understand async/await, use the sync sending mode:
 

@@ -12,6 +12,11 @@ namespace Nop.Core.Configuration
         public bool DisplayFullErrorStack { get; set; }
 
         /// <summary>
+        /// SparkPost used to send emails out via the platform.
+        /// </summary>
+        public string SparkPostKey { get; set; }
+
+        /// <summary>
         /// Gets or sets connection string for Azure BLOB storage
         /// </summary>
         public string AzureBlobStorageConnectionString { get; set; }

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "b4400e27bf3c47fe586c59de69b0cbdca9bf8490"
+    "signature": "72ba9f379fb1bf1241098a90342b47f33d57457a"
   },
   "compilationOptions": {
     "defines": [
@@ -2942,6 +2942,72 @@
           }
         }
       },
+      "Mime/2.3.5": {
+        "dependencies": {
+          "MimeTypesMap": "1.0.2",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Mime.dll": {
+            "assemblyVersion": "2.3.5.0",
+            "fileVersion": "2.3.5.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libmagic-1.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/magic.mgc": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libmagic-1.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/magic.mgc": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libgnurx-0.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libmagic-1.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/magic.mgc": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard1.3/Mime.dll": {}
+        }
+      },
+      "MimeTypesMap/1.0.2": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.3/MimeTypesMap.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard1.3/MimeTypesMap.dll": {}
+        }
+      },
       "MiniProfiler.AspNetCore/4.0.133": {
         "dependencies": {
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
@@ -3306,6 +3372,21 @@
         },
         "compile": {
           "lib/netstandard2.0/SixLabors.ImageSharp.dll": {}
+        }
+      },
+      "SparkPostCore/1.0.0": {
+        "dependencies": {
+          "Mime": "2.3.5",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/SparkPostCore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp2.0/SparkPostCore.dll": {}
         }
       },
       "StackExchange.Redis.StrongName/1.2.4": {
@@ -4787,6 +4868,7 @@
           "Nop.Core": "4.1.0",
           "Nop.Data": "4.1.0",
           "SixLabors.ImageSharp": "1.0.0-beta0004",
+          "SparkPostCore": "1.0.0",
           "System.Linq.Dynamic.Core": "1.0.8.11",
           "System.ServiceModel.Http": "4.5.3",
           "WindowsAzure.Storage": "9.3.0",
@@ -6228,6 +6310,20 @@
       "path": "microsoft.win32.systemevents/4.5.0",
       "hashPath": "microsoft.win32.systemevents.4.5.0.nupkg.sha512"
     },
+    "Mime/2.3.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t3f8M+S3k2VAmiOvTSMm2bqnyWj0LpL55iFdRchefmrpGnkL4x8BKw0vBUeXq7enXufGzZBGi5umHkFXmUHHeA==",
+      "path": "mime/2.3.5",
+      "hashPath": "mime.2.3.5.nupkg.sha512"
+    },
+    "MimeTypesMap/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n1tW3mDCfG+gUhHXo27ODwERz6bRRRe0wpSTXYi4fV40K8MwMXtz5dSya5pdie/Za0KuGFw560OOcEYwIKjGBQ==",
+      "path": "mimetypesmap/1.0.2",
+      "hashPath": "mimetypesmap.1.0.2.nupkg.sha512"
+    },
     "MiniProfiler.AspNetCore/4.0.133": {
       "type": "package",
       "serviceable": true,
@@ -6458,6 +6554,13 @@
       "sha512": "sha512-ypYAt2A8FLJ85y42VOVzrCTaULbTwKMM87kYspWOpeBQG/nGBfKWGzFikNJUqOFET7lqQ1nCMp30Nin/W3DPhQ==",
       "path": "sixlabors.imagesharp/1.0.0-beta0004",
       "hashPath": "sixlabors.imagesharp.1.0.0-beta0004.nupkg.sha512"
+    },
+    "SparkPostCore/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1YK40qy292tl+sQ75RTQJuJCUf15Xgame75hFwGd249vT5FklfPPPEZNw9vgIEoT1OdwbQr7yJ7hCJmUa8LVUw==",
+      "path": "sparkpostcore/1.0.0",
+      "hashPath": "sparkpostcore.1.0.0.nupkg.sha512"
     },
     "StackExchange.Redis.StrongName/1.2.4": {
       "type": "package",
