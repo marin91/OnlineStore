@@ -389,6 +389,7 @@ namespace Nop.Web.Factories
             var model = new SocialModel
             {
                 FacebookLink = _storeInformationSettings.FacebookLink,
+                InstagramLink = _storeInformationSettings.InstagramLink,
                 TwitterLink = _storeInformationSettings.TwitterLink,
                 YoutubeLink = _storeInformationSettings.YoutubeLink,
                 GooglePlusLink = _storeInformationSettings.GooglePlusLink,

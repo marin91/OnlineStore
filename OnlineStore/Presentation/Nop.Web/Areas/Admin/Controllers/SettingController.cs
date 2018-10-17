@@ -1184,6 +1184,7 @@ namespace Nop.Web.Areas.Admin.Controllers
             storeInformationSettings.DisplayEuCookieLawWarning = model.StoreInformationSettings.DisplayEuCookieLawWarning;
             //social pages
             storeInformationSettings.FacebookLink = model.StoreInformationSettings.FacebookLink;
+            storeInformationSettings.InstagramLink = model.StoreInformationSettings.InstagramLink;
             storeInformationSettings.TwitterLink = model.StoreInformationSettings.TwitterLink;
             storeInformationSettings.YoutubeLink = model.StoreInformationSettings.YoutubeLink;
             storeInformationSettings.GooglePlusLink = model.StoreInformationSettings.GooglePlusLink;
@@ -1209,6 +1210,7 @@ namespace Nop.Web.Areas.Admin.Controllers
             _settingService.SaveSettingOverridablePerStore(storeInformationSettings, x => x.LogoPictureId, model.StoreInformationSettings.LogoPictureId_OverrideForStore, storeScope, false);
             _settingService.SaveSettingOverridablePerStore(storeInformationSettings, x => x.DisplayEuCookieLawWarning, model.StoreInformationSettings.DisplayEuCookieLawWarning_OverrideForStore, storeScope, false);
             _settingService.SaveSettingOverridablePerStore(storeInformationSettings, x => x.FacebookLink, model.StoreInformationSettings.FacebookLink_OverrideForStore, storeScope, false);
+            _settingService.SaveSettingOverridablePerStore(storeInformationSettings, x => x.InstagramLink, model.StoreInformationSettings.InstagramLink_OverrideForStore, storeScope, false);
             _settingService.SaveSettingOverridablePerStore(storeInformationSettings, x => x.TwitterLink, model.StoreInformationSettings.TwitterLink_OverrideForStore, storeScope, false);
             _settingService.SaveSettingOverridablePerStore(storeInformationSettings, x => x.YoutubeLink, model.StoreInformationSettings.YoutubeLink_OverrideForStore, storeScope, false);
             _settingService.SaveSettingOverridablePerStore(storeInformationSettings, x => x.GooglePlusLink, model.StoreInformationSettings.GooglePlusLink_OverrideForStore, storeScope, false);

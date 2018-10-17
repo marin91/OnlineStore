@@ -49,6 +49,10 @@ namespace Nop.Web.Areas.Admin.Models.Settings
         public string FacebookLink { get; set; }
         public bool FacebookLink_OverrideForStore { get; set; }
 
+        [NopResourceDisplayName("Admin.Configuration.Settings.GeneralCommon.InstagramLink")]
+        public string InstagramLink { get; set; }
+        public bool InstagramLink_OverrideForStore { get; set; }
+
         [NopResourceDisplayName("Admin.Configuration.Settings.GeneralCommon.TwitterLink")]
         public string TwitterLink { get; set; }
         public bool TwitterLink_OverrideForStore { get; set; }

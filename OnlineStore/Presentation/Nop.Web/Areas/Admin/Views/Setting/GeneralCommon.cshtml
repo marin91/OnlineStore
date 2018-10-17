@@ -411,6 +411,16 @@
                         </div>
                         <div class="form-group">
                             <div class="col-md-3">
+                                <nop-override-store-checkbox asp-for="StoreInformationSettings.InstagramLink_OverrideForStore" asp-input="StoreInformationSettings.InstagramLink" asp-store-scope="@Model.ActiveStoreScopeConfiguration" />
+                                <nop-label asp-for="StoreInformationSettings.InstagramLink" />
+                            </div>
+                            <div class="col-md-9">
+                                <nop-editor asp-for="StoreInformationSettings.InstagramLink" />
+                                <span asp-validation-for="StoreInformationSettings.InstagramLink"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-3">
                                 <nop-override-store-checkbox asp-for="StoreInformationSettings.TwitterLink_OverrideForStore" asp-input="StoreInformationSettings.TwitterLink" asp-store-scope="@Model.ActiveStoreScopeConfiguration" />
                                 <nop-label asp-for="StoreInformationSettings.TwitterLink" />
                             </div>

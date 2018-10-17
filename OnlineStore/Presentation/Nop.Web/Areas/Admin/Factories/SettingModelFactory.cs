@@ -307,6 +307,7 @@ namespace Nop.Web.Areas.Admin.Factories
                 LogoPictureId = storeInformationSettings.LogoPictureId,
                 DisplayEuCookieLawWarning = storeInformationSettings.DisplayEuCookieLawWarning,
                 FacebookLink = storeInformationSettings.FacebookLink,
+                InstagramLink = storeInformationSettings.InstagramLink,
                 TwitterLink = storeInformationSettings.TwitterLink,
                 YoutubeLink = storeInformationSettings.YoutubeLink,
                 GooglePlusLink = storeInformationSettings.GooglePlusLink,
@@ -334,6 +335,7 @@ namespace Nop.Web.Areas.Admin.Factories
             model.LogoPictureId_OverrideForStore = _settingService.SettingExists(storeInformationSettings, x => x.LogoPictureId, storeId);
             model.DisplayEuCookieLawWarning_OverrideForStore = _settingService.SettingExists(storeInformationSettings, x => x.DisplayEuCookieLawWarning, storeId);
             model.FacebookLink_OverrideForStore = _settingService.SettingExists(storeInformationSettings, x => x.FacebookLink, storeId);
+            model.InstagramLink_OverrideForStore = _settingService.SettingExists(storeInformationSettings, x => x.InstagramLink, storeId);
             model.TwitterLink_OverrideForStore = _settingService.SettingExists(storeInformationSettings, x => x.TwitterLink, storeId);
             model.YoutubeLink_OverrideForStore = _settingService.SettingExists(storeInformationSettings, x => x.YoutubeLink, storeId);
             model.GooglePlusLink_OverrideForStore = _settingService.SettingExists(storeInformationSettings, x => x.GooglePlusLink, storeId);

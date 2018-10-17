@@ -5,6 +5,10 @@
     {
         <li class="facebook"><a href="@Model.FacebookLink" target="_blank"><i class="fa fa-facebook"></i></a></li>
     }
+    @if (!string.IsNullOrEmpty(Model.InstagramLink))
+    {
+        <li class="instagram"><a href="@Model.InstagramLink" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    }
     @if (!string.IsNullOrEmpty(Model.TwitterLink))
     {
         <li class="twitter"><a href="@Model.TwitterLink" target="_blank"><i class="fa fa-twitter"></i></a></li>
