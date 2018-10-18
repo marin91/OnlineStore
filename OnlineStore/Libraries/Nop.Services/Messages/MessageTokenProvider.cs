@@ -166,6 +166,7 @@ namespace Nop.Services.Messages
                     "%Store.CompanyPhoneNumber%",
                     "%Store.CompanyVat%",
                     "%Facebook.URL%",
+                    "%Instagram.URL%",
                     "%Twitter.URL%",
                     "%YouTube.URL%",
                     "%GooglePlus.URL%"

@@ -6828,7 +6828,7 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InstagramLink">
     <Value>Instagram page URL</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.Instagram.Hint">
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InstagramLink.Hint">
     <Value>Specify your Instagram page URL. Leave empty if you have no such page.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ForceSslForAllPages">
