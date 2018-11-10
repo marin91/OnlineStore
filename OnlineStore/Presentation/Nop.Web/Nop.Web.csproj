@@ -46,6 +46,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="SiteBrandingContent\" />
     <Folder Include="Plugins\" />
   </ItemGroup>
 

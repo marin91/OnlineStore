@@ -732,7 +732,7 @@ namespace Nop.Web.Factories
             if (!_fileProvider.FileExists(localFaviconPath))
             {
                 //try loading a generic favicon
-                faviconFileName = "favicon.ico";
+                faviconFileName = "favicon.png";
                 localFaviconPath = _fileProvider.Combine(_hostingEnvironment.WebRootPath, faviconFileName);
                 if (!_fileProvider.FileExists(localFaviconPath))
                 {
