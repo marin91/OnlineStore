@@ -1,0 +1,21 @@
+Fonts:
+
+Main Font: Angeline Vintage
+Slogan Font: Amatic Regular
+
+Colors:
+
+Parsley (Main Font)
+
+Hex: #196228
+RGB: rgb(25, 98, 40)
+
+Heavy Metal (Slogan Font)
+
+Hex: #141514
+RGB: rgb(20, 21, 20)
+
+White (Background)
+
+Hex: #fff
+RGB: rgb(255, 255, 255)
