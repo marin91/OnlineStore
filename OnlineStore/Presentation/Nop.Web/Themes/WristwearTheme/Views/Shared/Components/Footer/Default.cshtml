@@ -101,7 +101,7 @@
                         <strong>@T("Footer.Information")</strong>
                     </div>
                     <ul class="nav nav-list">
-                        @foreach (var topic in Model.Topics.Where(x => x.IncludeInFooterColumn1).ToList())
+                        @foreach (var topic in Model.Topics.Where(x => x.IncludeInFooterColumn1 && x.Name != "").ToList())
                         {
                             <li><a href="@Url.RouteUrl("Topic", new { SeName = topic.SeName })"><i class="fa fa-angle-right"></i>@topic.Name</a></li>
                         }
