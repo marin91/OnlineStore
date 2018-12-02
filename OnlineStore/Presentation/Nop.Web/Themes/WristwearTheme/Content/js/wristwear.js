@@ -170,8 +170,7 @@ $(document).ready(function () {
 
             $(document).scroll(function () {
                 var pos = $(window).scrollTop();
-                console.log(pos);
-
+                        
                 if (pos >= position) {
                     backBtn.fadeIn(speed);
                 } else {
