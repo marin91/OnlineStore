@@ -19,6 +19,6 @@ steps:
   inputs:
     version: '2.1.300'
 - script: dotnet build OnlineStore/Presentation/Nop.Web/Nop.Web.csproj  --configuration $(buildConfiguration)
- # displayName: 'dotnet build $(buildConfiguration)'
+  displayName: 'dotnet build $(buildConfiguration)'
 
 
